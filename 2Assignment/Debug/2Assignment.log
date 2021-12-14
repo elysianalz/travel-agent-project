@@ -1,0 +1,5 @@
+﻿  TravelAgentApp.cpp
+C:\Users\MTK20\source\repos\2Assignment\2Assignment\TravelAgent.h(71,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\MTK20\source\repos\2Assignment\2Assignment\TravelAgent.h(72,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\MTK20\source\repos\2Assignment\2Assignment\TravelAgentApp.cpp(121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  2Assignment.vcxproj -> C:\Users\MTK20\source\repos\2Assignment\Debug\2Assignment.exe
